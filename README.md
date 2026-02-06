@@ -1,15 +1,15 @@
-# E-Commerce Delivery Delay Analysis
+## E-Commerce Delivery Delay Analysis
 
-## Overview
+### Overview
 Analysis of delivery delays using the Olist Brazilian E-commerce dataset to identify order failures and logistics bottlenecks.
 
-## Key Insight
+### Key Insight
 The **shipped → delivered** stage is the primary contributor to late deliveries and failed orders.
 
-## Tools
+### Tools
 Python (Pandas), Power BI
 
-## Deliverables
+### Deliverables
 - Master dataset  
 - Power BI dashboard  
 - Final report
