@@ -15,4 +15,4 @@ Python (Pandas), Power BI
 - Final report
 
 ### ML Model
-Use XG Bosst model to Predict probability of delivery delays. The model achieved a test log loss of '0.126', indicating highly reliable and well-calibrated probability predictions for delivery delay risk.
+Use "XG Bosst" model to Predict probability of delivery delays. The model achieved a test log loss of '0.126', indicating highly reliable and well-calibrated probability predictions for delivery delay risk.
